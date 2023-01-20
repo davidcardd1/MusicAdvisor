@@ -20,8 +20,8 @@ import java.util.Scanner;
 
 public class Main {
     static String accessCode = "";
-    static String clientID = "56502cd7a6db4c23af1106af7816f416";
-    static String clientSecret = "3cfe41c6093741f1b095af24ac74c6f5";
+    static String clientID = "...";
+    static String clientSecret = "...";
 
     static String authServerPath = "https://accounts.spotify.com";
     static String apiServerPath = "https://api.spotify.com";
